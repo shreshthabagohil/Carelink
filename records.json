@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rec-1",
+    "patientId": "patient-1",
+    "date": "2023-06-10",
+    "diagnosis": "Type 2 Diabetes",
+    "tests": "Fasting blood sugar, HbA1c",
+    "medicines": "Metformin 500mg",
+    "notes": "Advised low sugar diet, regular walking",
+    "tag": "chronic"
+  },
+  {
+    "id": "rec-2",
+    "patientId": "patient-1",
+    "date": "2024-02-18",
+    "diagnosis": "Hypertension",
+    "tests": "BP monitoring, ECG",
+    "medicines": "Amlodipine 5mg",
+    "notes": "Monitor BP at home, review in 3 months",
+    "tag": "cardio"
+  },
+  {
+    "id": "rec-1763809732440",
+    "patientId": "patient-1",
+    "date": "2025-07-16",
+    "diagnosis": "sun allergy, diabetes, alzheimers",
+    "tests": "X-ray, blood tests, mri",
+    "medicines": "paracetamol 500mg",
+    "notes": "sleep well",
+    "tag": "neuro"
+  }
+]
