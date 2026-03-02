@@ -1,0 +1,10 @@
+[
+  {
+    "id": "hospital-1",
+    "name": "CityCare Hospital",
+    "email": "er@citycare.com",
+    "password": "demo123",
+    "location": "Bengaluru",
+    "phone": "+91-80-1234-5678"
+  }
+]
