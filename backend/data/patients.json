@@ -1,0 +1,19 @@
+[
+  {
+    "id": "patient-1",
+    "name": "Ravi Kumar",
+    "phone": "9123569234",
+    "password": "careli@asdaq",
+    "age": 64,
+    "bloodGroup": "B+",
+    "allergies": ["Penicillin", "Seafood"],
+    "conditions": ["Type 2 Diabetes", "Hypertension"],
+    "currentMeds": ["Metformin 500mg", "Amlodipine 5mg"],
+    "lastVisit": "2025-10-12",
+    "notes": "Avoid high-sugar diet, monitor blood pressure daily, and review medication every 6 months.",
+    "trustedContacts": [
+      { "name": "Ananya (Daughter)", "phone": "+91 9123844778" },
+      { "name": "Shyam (Son)", "phone": "+91 8094007113" }
+    ]
+  }
+]
